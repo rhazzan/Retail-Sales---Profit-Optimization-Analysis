@@ -22,6 +22,10 @@ Retail businesses often struggle to:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Sales Dashboard](Dashboard.png)
+
 ## 🔍 Key Insights
 
 ### 💰 Financial Performance
